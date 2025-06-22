@@ -1,0 +1,2 @@
+# zerojudge-solutions
+Everyday code
